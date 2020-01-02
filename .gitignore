@@ -1,0 +1,8 @@
+client_secret.json
+credentials.json
+OLD_PARAMS/*
+params.py
+package/*
+__pycache__/*
+*.pyc
+main.py
